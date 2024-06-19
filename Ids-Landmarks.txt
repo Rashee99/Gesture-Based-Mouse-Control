@@ -1,0 +1,22 @@
+ID	Landmark
+0	Wrist
+1	Thumb CMC
+2	Thumb MCP
+3	Thumb IP
+4	Thumb Tip
+5	Index Finger MCP
+6	Index Finger PIP
+7	Index Finger DIP
+8	Index Finger Tip
+9	Middle Finger MCP
+10	Middle Finger PIP
+11	Middle Finger DIP
+12	Middle Finger Tip
+13	Ring Finger MCP
+14	Ring Finger PIP
+15	Ring Finger DIP
+16	Ring Finger Tip
+17	Little Finger MCP
+18	Little Finger PIP
+19	Little Finger DIP
+20	Little Finger Tip
